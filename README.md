@@ -39,6 +39,10 @@ Using Python for data analysis and Power BI for visualization, I developed recom
 - Imported the dataset into Power BI and created DAX measures for total customers, total conversions, and conversion rate.
 - Developed an interactive dashboard presenting campaign performance, customer segments, previous campaign outcomes, and outreach efficiency.
 
+## Power BI Dashboard
+
+![Bank Marketing Campaign Dashboard](Dashboard.png)
+
 ## Key Findings
 
 ### 1. Overall Campaign Performance
